@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+body {
+    cursor: url('/cursors/cross-cursor.svg') 32 16, auto;
+}
+
